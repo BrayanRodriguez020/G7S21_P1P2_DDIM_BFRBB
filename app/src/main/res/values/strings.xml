@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">G7S21_P1P2_DDIM_BFRB</string>
+
+    <string name="p1t1">Ingresa tu nombre</string>
+    <string name="p1t2">Ingresa tu edad</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1h2">Aqui tu edad</string>
+    <string name="p1bt1">Ingresar</string>
+
+</resources>
